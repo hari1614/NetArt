@@ -32,7 +32,6 @@ const LandingPage = () => {
             <div className="landing-page-main">
                 <div className="left-content">
                     <img src={Award} alt="award" />
-
                 </div>
                 <div className="right-content">
                     <div className="head">
@@ -48,20 +47,17 @@ const LandingPage = () => {
                         <img src={Group} alt="group" />
                     </div>
                     <div className="img-details">
-                        <p>Government of India has awarded the
+                        <p>
+                            Government of India has awarded the
                             <strong>"National Energy Conservation Award
-                                2018"</strong>. Mr. G. Selvaraj, Joint Managing
+                            2018"</strong>. Mr. G. Selvaraj, Joint Managing
                             Director of C.R.I. Group received the
                             award from Smt. Sumitra Mahajan, Speaker
                             of Lok Sabha & Shri. Raj Kumar Singh,
-                            Honorable Minister of State.</p>
+                            Honorable Minister of State.
+                        </p>
                     </div>
-
-
-
                 </div>
-
-
             </div>
             <div className="bottom-content">
                 <div className="bottom-text">
@@ -71,18 +67,39 @@ const LandingPage = () => {
                     <img src={Pump} alt="pump" />
                 </div>
                 <div className="img-text">
-                    <p> Valves - Pumps - Pipes - IoT Drives
+                    <p>
+                        Valves - Pumps - Pipes - IoT Drives
                         & Controllers - Wires & Cables - Solar
                         Systems - Motors
                     </p>
-                 
+
                 </div>
                 <div className="bottom-details">
-                    <p>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</p>
+                    <p>
+                        C.R.I. FLUID SYSTEMS PRODUCTS CATER TO
+                        DIVERSE SEGMENTS</p>
                 </div>
                 <div className="details-two">
-                    <p>CHEMICALS & PROCESS POWER WATER & WASTE WATER OILS & GAS PHARMA SUGARS & DISTILLERIES PAPER & PULP MARINE & DEFENCE METAL & MINING FOOD & BEVERAGE PETROCHEMICAL & REFINERIES SOLAR BUILDING HVAC FIRE FIGHTING AGRICULTURE & RESIDENTIAL</p>
+                    <p>
+                        CHEMICALS & PROCESS POWER WATER &
+                        WASTE WATER OILS & GAS PHARMA SUGARS &
+                        DISTILLERIES PAPER & PULP MARINE &
+                        DEFENCE METAL & MINING FOOD & BEVERAGE
+                        PETROCHEMICAL & REFINERIES SOLAR
+                        BUILDING HVAC FIRE FIGHTING
+                        AGRICULTURE & RESIDENTIAL
+                    </p>
                 </div>
+
+            </div>
+            <div className="footer">
+                <div className="contact">
+                    <a href="/">Toll free 1800 200 1234</a>
+                    <a href="/">www.facebook.com/cripumps</a>
+                    <a href="/">www.crigroups.com</a>
+
+                </div>
+
             </div>
         </div>
 

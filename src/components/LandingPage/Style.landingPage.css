@@ -11,7 +11,6 @@
 
 .logo img {
     width: 30%;
-
 }
 
 .landing-page-main {
@@ -20,8 +19,8 @@
 }
 
 .left-content {
-    width: 45%;
-    margin: 2% 0 0 2%;
+    width: 48%;
+    margin: 5% 0 0 2%;
 }
 
 .right-content {
@@ -31,42 +30,67 @@
 .head h5 {
     font-size: 16px;
 }
-.list-items ul li{
 
+.list-items ul li {
     font-size: 14px;
-    font-weight: 500;  
+    font-weight: 500;
 }
-.landing-page-image{
+
+.landing-page-image {
     width: 90%;
 }
 
-.img-details{
-    
+.img-details {
     font-size: 14px;
-    font-weight: 500; 
+    font-weight: 500;
 }
-.bottom-text p{
+
+.bottom-text p {
     width: 100%;
     text-align: center;
     font-weight: 600;
 }
-.bottom-img img{
+
+.bottom-img img {
     width: 80%;
-   margin-left: 10%;
-   
+    margin-left: 10%;
 }
-.img-text{
+
+.img-text {
     text-align: center;
     font-weight: 600;
 }
-.bottom-details{
+
+.bottom-details {
     text-align: center;
     font-weight: 600;
     border-top: 1px solid hsla(358, 83%, 56%, 1);
 }
-.details-two p{
-    
-   
+
+.details-two p {
     text-align: center;
+}
+
+.footer {
+   border: 1px solid brown;
+    background: hsla(358, 83%, 56%, 1);
+    height: 200px;
+    width: 100%;
+
+}
+.contact{
+    margin-top: 100px;
+    background: inherit;
+    display: flex;
+    justify-content: center;
+    gap: 20rem;
+   
+}
+.contact a{
+    background: inherit;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
 
 }
