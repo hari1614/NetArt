@@ -2,7 +2,7 @@ import Logo from '../../assets/images/logo.png'
 import Award from '../../assets/images/award.png'
 import GroupPhoto from '../../assets/images/group-photo.png'
 import Pump from '../../assets/images/pump.png'
-import Style from '../LandingPage/Style.landingPage.css';
+import '../LandingPage/Style.landingPage.css';
 
 const LandingPage = () => {
     const text = `'C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION
@@ -79,6 +79,9 @@ const LandingPage = () => {
                 </div>
                 <div className="bottom-details">
                     <p>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</p>
+                </div>
+                <div className="details-two">
+                    <p>CHEMICALS & PROCESS POWER WATER & WASTE WATER OILS & GAS PHARMA SUGARS & DISTILLERIES PAPER & PULP MARINE & DEFENCE METAL & MINING FOOD & BEVERAGE PETROCHEMICAL & REFINERIES SOLAR BUILDING HVAC FIRE FIGHTING AGRICULTURE & RESIDENTIAL</p>
                 </div>
             </div>
         </div>

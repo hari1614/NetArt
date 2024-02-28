@@ -64,3 +64,9 @@
     font-weight: 600;
     border-top: 1px solid hsla(358, 83%, 56%, 1);
 }
+.details-two p{
+    font-weight: bold;
+    font-wight: 450;
+    text-align: center;
+
+}

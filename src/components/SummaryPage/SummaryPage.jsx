@@ -1,4 +1,4 @@
-import Style from '../SummaryPage/Style.summaryPage.css';
+import '../SummaryPage/Style.summaryPage.css';
 const Summary = () => {
     return ( 
         <div className="summary-container">
