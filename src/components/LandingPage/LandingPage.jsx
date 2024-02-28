@@ -1,6 +1,6 @@
 import Logo from '../../assets/images/logo.png'
 import Award from '../../assets/images/award.png'
-import GroupPhoto from '../../assets/images/group-photo.png'
+import Group from '../../assets/images/group.png'
 import Pump from '../../assets/images/pump.png'
 import '../LandingPage/Style.landingPage.css';
 
@@ -45,7 +45,7 @@ const LandingPage = () => {
                         </ul>
                     </div>
                     <div className="landing-page-image">
-                        <img src={GroupPhoto} alt="group-photo" />
+                        <img src={Group} alt="group-photo" />
                     </div>
                     <div className="img-details">
                         <p>Government of India has awarded the
