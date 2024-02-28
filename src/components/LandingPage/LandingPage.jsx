@@ -45,7 +45,7 @@ const LandingPage = () => {
                         </ul>
                     </div>
                     <div className="landing-page-image">
-                        <img src={Group} alt="group-photo" />
+                        <img src={Group} alt="group" />
                     </div>
                     <div className="img-details">
                         <p>Government of India has awarded the
